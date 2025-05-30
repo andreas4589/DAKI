@@ -1,0 +1,8 @@
+C:\Users\31617\Desktop\Kunstmatige Intelligentie\KI Jaar 2\DAKI\Practicum\P6\Tricky Animals\Tricky Animals\bin\Debug\Tricky Animals.exe.config
+C:\Users\31617\Desktop\Kunstmatige Intelligentie\KI Jaar 2\DAKI\Practicum\P6\Tricky Animals\Tricky Animals\bin\Debug\Tricky Animals.exe
+C:\Users\31617\Desktop\Kunstmatige Intelligentie\KI Jaar 2\DAKI\Practicum\P6\Tricky Animals\Tricky Animals\bin\Debug\Tricky Animals.pdb
+C:\Users\31617\Desktop\Kunstmatige Intelligentie\KI Jaar 2\DAKI\Practicum\P6\Tricky Animals\Tricky Animals\obj\Debug\Tricky Animals.csproj.AssemblyReference.cache
+C:\Users\31617\Desktop\Kunstmatige Intelligentie\KI Jaar 2\DAKI\Practicum\P6\Tricky Animals\Tricky Animals\obj\Debug\Tricky Animals.csproj.SuggestedBindingRedirects.cache
+C:\Users\31617\Desktop\Kunstmatige Intelligentie\KI Jaar 2\DAKI\Practicum\P6\Tricky Animals\Tricky Animals\obj\Debug\Tricky Animals.csproj.CoreCompileInputs.cache
+C:\Users\31617\Desktop\Kunstmatige Intelligentie\KI Jaar 2\DAKI\Practicum\P6\Tricky Animals\Tricky Animals\obj\Debug\Tricky Animals.exe
+C:\Users\31617\Desktop\Kunstmatige Intelligentie\KI Jaar 2\DAKI\Practicum\P6\Tricky Animals\Tricky Animals\obj\Debug\Tricky Animals.pdb
