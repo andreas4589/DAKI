@@ -1,0 +1,8 @@
+C:\Users\31617\Desktop\Kunstmatige Intelligentie\KI Jaar 2\DAKI\Practicum\P7\Edsger op de fiets\Edsger op de fiets\bin\Debug\Edsger op de fiets.exe.config
+C:\Users\31617\Desktop\Kunstmatige Intelligentie\KI Jaar 2\DAKI\Practicum\P7\Edsger op de fiets\Edsger op de fiets\bin\Debug\Edsger op de fiets.exe
+C:\Users\31617\Desktop\Kunstmatige Intelligentie\KI Jaar 2\DAKI\Practicum\P7\Edsger op de fiets\Edsger op de fiets\bin\Debug\Edsger op de fiets.pdb
+C:\Users\31617\Desktop\Kunstmatige Intelligentie\KI Jaar 2\DAKI\Practicum\P7\Edsger op de fiets\Edsger op de fiets\obj\Debug\Edsger op de fiets.csproj.AssemblyReference.cache
+C:\Users\31617\Desktop\Kunstmatige Intelligentie\KI Jaar 2\DAKI\Practicum\P7\Edsger op de fiets\Edsger op de fiets\obj\Debug\Edsger op de fiets.csproj.SuggestedBindingRedirects.cache
+C:\Users\31617\Desktop\Kunstmatige Intelligentie\KI Jaar 2\DAKI\Practicum\P7\Edsger op de fiets\Edsger op de fiets\obj\Debug\Edsger op de fiets.csproj.CoreCompileInputs.cache
+C:\Users\31617\Desktop\Kunstmatige Intelligentie\KI Jaar 2\DAKI\Practicum\P7\Edsger op de fiets\Edsger op de fiets\obj\Debug\Edsger op de fiets.exe
+C:\Users\31617\Desktop\Kunstmatige Intelligentie\KI Jaar 2\DAKI\Practicum\P7\Edsger op de fiets\Edsger op de fiets\obj\Debug\Edsger op de fiets.pdb
