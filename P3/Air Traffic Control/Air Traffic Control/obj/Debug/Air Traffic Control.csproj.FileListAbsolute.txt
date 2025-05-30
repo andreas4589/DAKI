@@ -1,0 +1,8 @@
+C:\Users\31617\Desktop\Kunstmatige Intelligentie\KI Jaar 2\DAKI\Practicum\P3\Air Traffic Control\Air Traffic Control\bin\Debug\Air Traffic Control.exe.config
+C:\Users\31617\Desktop\Kunstmatige Intelligentie\KI Jaar 2\DAKI\Practicum\P3\Air Traffic Control\Air Traffic Control\bin\Debug\Air Traffic Control.exe
+C:\Users\31617\Desktop\Kunstmatige Intelligentie\KI Jaar 2\DAKI\Practicum\P3\Air Traffic Control\Air Traffic Control\bin\Debug\Air Traffic Control.pdb
+C:\Users\31617\Desktop\Kunstmatige Intelligentie\KI Jaar 2\DAKI\Practicum\P3\Air Traffic Control\Air Traffic Control\obj\Debug\Air Traffic Control.csproj.AssemblyReference.cache
+C:\Users\31617\Desktop\Kunstmatige Intelligentie\KI Jaar 2\DAKI\Practicum\P3\Air Traffic Control\Air Traffic Control\obj\Debug\Air Traffic Control.csproj.SuggestedBindingRedirects.cache
+C:\Users\31617\Desktop\Kunstmatige Intelligentie\KI Jaar 2\DAKI\Practicum\P3\Air Traffic Control\Air Traffic Control\obj\Debug\Air Traffic Control.csproj.CoreCompileInputs.cache
+C:\Users\31617\Desktop\Kunstmatige Intelligentie\KI Jaar 2\DAKI\Practicum\P3\Air Traffic Control\Air Traffic Control\obj\Debug\Air Traffic Control.exe
+C:\Users\31617\Desktop\Kunstmatige Intelligentie\KI Jaar 2\DAKI\Practicum\P3\Air Traffic Control\Air Traffic Control\obj\Debug\Air Traffic Control.pdb

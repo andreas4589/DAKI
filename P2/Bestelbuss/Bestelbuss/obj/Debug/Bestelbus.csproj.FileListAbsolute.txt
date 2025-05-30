@@ -1,0 +1,8 @@
+C:\Users\31617\Desktop\Kunstmatige Intelligentie\KI Jaar 2\DAKI\Practicum\P2\DAKI P2\Bestelbuss\Bestelbuss\bin\Debug\Bestelbuss.exe.config
+C:\Users\31617\Desktop\Kunstmatige Intelligentie\KI Jaar 2\DAKI\Practicum\P2\DAKI P2\Bestelbuss\Bestelbuss\bin\Debug\Bestelbuss.exe
+C:\Users\31617\Desktop\Kunstmatige Intelligentie\KI Jaar 2\DAKI\Practicum\P2\DAKI P2\Bestelbuss\Bestelbuss\bin\Debug\Bestelbuss.pdb
+C:\Users\31617\Desktop\Kunstmatige Intelligentie\KI Jaar 2\DAKI\Practicum\P2\DAKI P2\Bestelbuss\Bestelbuss\obj\Debug\Bestelbus.csproj.SuggestedBindingRedirects.cache
+C:\Users\31617\Desktop\Kunstmatige Intelligentie\KI Jaar 2\DAKI\Practicum\P2\DAKI P2\Bestelbuss\Bestelbuss\obj\Debug\Bestelbus.csproj.CoreCompileInputs.cache
+C:\Users\31617\Desktop\Kunstmatige Intelligentie\KI Jaar 2\DAKI\Practicum\P2\DAKI P2\Bestelbuss\Bestelbuss\obj\Debug\Bestelbuss.exe
+C:\Users\31617\Desktop\Kunstmatige Intelligentie\KI Jaar 2\DAKI\Practicum\P2\DAKI P2\Bestelbuss\Bestelbuss\obj\Debug\Bestelbuss.pdb
+C:\Users\31617\Desktop\Kunstmatige Intelligentie\KI Jaar 2\DAKI\Practicum\P2\DAKI P2\Bestelbuss\Bestelbuss\obj\Debug\Bestelbus.csproj.AssemblyReference.cache
